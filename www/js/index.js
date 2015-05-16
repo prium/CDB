@@ -45,6 +45,6 @@ var app = {
         //receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
-        window.location="http://hellojewel.net/villiers/cdb-meeting/"; 
+        window.location="http://bog.caribank.org"; 
     }
 };
