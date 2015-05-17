@@ -46,6 +46,6 @@ var app = {
 
         console.log('Received Event: ' + id);
         window.plugins.Shortcut.CreateShortcut("CDB", function(){}, function(){} );
-        window.location="http://bog.caribank.org"; 
+        window.location.href="http://bog.caribank.org"; 
     }
 };
